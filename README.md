@@ -10,7 +10,7 @@ between users. It having a button (send button) to send directly
 without any encryption or decryption and another button 
 (encrypt button) left of send button to encrypt your message.
 
-###Advantages of this system:
+### Advantages of this system:
 
 • Can’t readable without key 
 
@@ -21,7 +21,7 @@ without any encryption or decryption and another button
 • conversation is in encrypted format
 
 
-###User Page
+### User Page
 ![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/capture.JPG?raw=true)
 
 

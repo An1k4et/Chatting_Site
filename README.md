@@ -21,7 +21,8 @@ without any encryption or decryption and another button
 • conversation is in encrypted format
 
 
-### User Page ![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/capture.JPG?raw=true)
+### User Page 
+![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/capture.JPG?raw=true)
 
 
 

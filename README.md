@@ -23,14 +23,17 @@ without any encryption or decryption and another button
 
 ### User Page
 ![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/capture.JPG?raw=true)
+
 Green dot means user is active and grey dot means user is currently offline
 There is logout button you can directly logout using this button
 ### Chatting Page
 ![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/Capture1.JPG?raw=true)
+
 On Left of send button you can send message in encrypted format where key is automatically generated.
 Just write message in chat box click in lock button a popup message is arrived with key 
 ### How to Decrypt message
 ![Logo](https://github.com/An1k4et/Chatting_Site/blob/main/Capture2.JPG?raw=true)
+
 on Top right corner there is decryption button to decrypt message only you need to paste message and key and click on Decrypt button
 ### How it Encrypt and Decrypt the message
 OpenSSL is a cryptography software library or toolkit that makes 
